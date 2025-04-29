@@ -1,0 +1,1 @@
+# Turkish-Sign-Language-Deployment-Flask-YOLOV8
